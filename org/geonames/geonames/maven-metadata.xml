@@ -1,0 +1,12 @@
+<metadata>
+    <groupId>org.geonames</groupId>
+    <artifactId>geonames</artifactId>
+    <versioning>
+        <latest>1.1.7</latest>
+        <release>1.1.7</release>
+        <versions>
+            <version>1.1.7</version>
+        </versions>
+        <lastUpdated>20120803113000</lastUpdated>
+    </versioning>
+</metadata>
